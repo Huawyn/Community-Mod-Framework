@@ -1,6 +1,6 @@
 ﻿l_simp_chinese:
- je_com_progress_in_style: "风格化进度"
- je_com_progress_in_style_reason: "此日志条目展示了 CMF 中进度条的一些可能样式"
+ je_com_progress_in_style: "进度条样式展示"
+ je_com_progress_in_style_reason: "此日志条目展示了社区模组框架中进度条的一些可用样式"
  spb_com_progress_in_style_name: "示例进度条"
  spb_com_progress_in_style_desc: "示例进度条"
  spb_com_progress_in_style_right_desc: ""
